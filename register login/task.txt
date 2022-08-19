@@ -1,0 +1,5 @@
+Lav en hjemmmeside med HTML/CSS/JS, hvor der er to forms, login og register.
+
+Efter man har registeret kan man logge ind, og så skriver den bare "hey {brugernavn}"
+
+Dataen gemmes client side
